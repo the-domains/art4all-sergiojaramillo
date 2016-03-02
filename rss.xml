@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[ART 4 ALL - SERGIO JARAMILLO A.]]></title>
         <description><![CDATA[ART 4 ALL - SERGIO JARAMILLO A.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/art4all-sergiojaramillo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 03:51:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Mar 2016 04:15:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/art4all-sergiojaramillo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd9adc66-5b72-4834-969a-165548cc73f8.JPG">]]></description>
-            <link>undefined22383f02-7b4a-49dd-ab89-96dc67391197/index.html</link>
+            <link>https://thegrid.ai/art4all-sergiojaramillo/22383f02-7b4a-49dd-ab89-96dc67391197/index.html</link>
             <guid isPermaLink="false">22383f02-7b4a-49dd-ab89-96dc67391197</guid>
             <pubDate>Wed, 02 Mar 2016 03:51:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a6b628b-2276-4045-9ed8-391545af3740.jpg">]]></description>
+            <link>https://thegrid.ai/art4all-sergiojaramillo/d9835e32-37c7-4836-a32d-16df703bc689/index.html</link>
+            <guid isPermaLink="false">d9835e32-37c7-4836-a32d-16df703bc689</guid>
+            <pubDate>Wed, 02 Mar 2016 04:15:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
