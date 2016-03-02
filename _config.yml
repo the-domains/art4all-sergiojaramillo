@@ -1,7 +1,7 @@
 name: ART4ALL - SERGIOJARAMILLO
 favicon: null
-layout_spectrum: 0.9565064953640103
-typography_spectrum: 0.12954196170903742
+layout_spectrum: 1
+typography_spectrum: 0.60992
 title: ART 4 ALL - SERGIO JARAMILLO A.
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#455568'
+    - '#130f0c'
+    - '#e7d4ad'
+    - '#bb996f'
+    - '#9b3d2a'
   brandStrength: 0.20239130686968565
   lightness: 0.07687950995750725
   saturation: 0.7710077497176826
