@@ -1,0 +1,28 @@
+name: ART4ALL - SERGIOJARAMILLO
+favicon: null
+layout_spectrum: 0.9565064953640103
+typography_spectrum: 0.12954196170903742
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.20239130686968565
+  lightness: 0.07687950995750725
+  saturation: 0.7710077497176826
+  rhythmicContrast: 0.4330489323474467
+purpose: []
