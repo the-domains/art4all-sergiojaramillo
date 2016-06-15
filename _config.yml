@@ -1,7 +1,7 @@
 name: '*ART 4 ALL*'
 favicon: null
 layout_spectrum: 0.49568
-typography_spectrum: 0.35627
+typography_spectrum: 0.61803
 title: SERGIO JARAMILLO AGUIRREZABAL
 collections:
   - index:
@@ -35,7 +35,7 @@ color:
     - '#bb996f'
     - '#9b3d2a'
   brandStrength: 0.9375
-  lightness: 0.6875
+  lightness: 0.0625
   saturation: 1
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0
 purpose: []
